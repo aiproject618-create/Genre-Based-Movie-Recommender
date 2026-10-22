@@ -75,7 +75,7 @@ st.set_page_config(page_title="CineMatch Recommender", page_icon="🎬", layout=
 # App Titles & Header Styling
 st.title("🎬 CineMatch AI")
 st.subheader("Simple & Elegant Genre-Based Movie Recommender")
-st.write("Find the highest-rated blockbusters instantly. Perfect for your Class 12 AI Project submission.")
+st.write("Find the highest-rated blockbusters instantly.")
 st.markdown("---")
 
 # Sidebar setup for project stats
